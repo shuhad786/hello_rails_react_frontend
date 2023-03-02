@@ -26,7 +26,7 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <h3><b>Hello Rails React README </b></h3>
+  <h3><b>Hello React Front End README </b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -98,13 +98,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+- Rails Back End Link: [rails](https://github.com/shuhad786/hello-rails-back-end/tree/feature-01)
 
-```sh
- gem install rails
-```
- -->
+run the rails application with rails s -p 8000 start the server first then the react application
 
 ### Setup
 
