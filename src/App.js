@@ -9,14 +9,12 @@ import store from './redux/configureStore';
 // Components
 import Greeting from './components/Greeting';
 
-const App = () => {
-  return (
+const App = () => (
     <Provider store={store}>
       <Routes>
         <Route path="/" element={<Greeting />} />
       </Routes>
     </Provider>
   );
-};
 
 export default App;
