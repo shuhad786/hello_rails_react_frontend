@@ -15,6 +15,6 @@ const App = () => (
       <Route path="/" element={<Greeting />} />
     </Routes>
   </Provider>
-  );
+);
 
 export default App;
